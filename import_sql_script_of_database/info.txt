@@ -1,0 +1,2 @@
+This sql script for creating database named 'storedb' which is used in my implementation.
+Import script into the phpmyadmin
